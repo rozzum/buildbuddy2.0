@@ -1,9 +1,0 @@
-# Essential
-BOT_TOKEN=8301120691:AAGzus0nVw-geIqxFpDsxtqNZ38pr_UtdmY
-OPENROUTER_API_KEY=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
-
-# Optional
-LOG_LEVEL=INFO
-AI_TEMPERATURE=0.7
-SITE_URL=https://buildbuddy-bot.com
-SITE_NAME=BuildBuddy Renovation Bot
