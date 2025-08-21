@@ -1,0 +1,518 @@
+{
+  "12345": {
+    "user_id": 12345,
+    "created_at": "2025-08-16T22:45:53.323816",
+    "updated_at": "2025-08-16T23:46:25.732699",
+    "locale": "en",
+    "pending_confirmation": null,
+    "start_option_chosen": null,
+    "data_collection_mode": null,
+    "data_completeness": 0,
+    "agent_validated": false,
+    "location": null,
+    "style": null,
+    "area": null,
+    "residents": null,
+    "pets": null,
+    "layout": null,
+    "floor_material": null,
+    "ceiling_material": null,
+    "wall_material": null,
+    "plumbing": null,
+    "lighting": null,
+    "furniture": null,
+    "budget": null,
+    "references": [
+      "https://example.com/image.jpg",
+      "https://api.telegram.org/file/bot123/photos/test.jpg"
+    ],
+    "project_stage": null,
+    "construction_calendar": null,
+    "color_scheme": null,
+    "sustainability": null,
+    "accessibility": null,
+    "conversation_history": [
+      {
+        "timestamp": "2025-08-16T22:47:51.755526",
+        "sender": "user",
+        "message": "I want to renovate my 30sqm living room with a $25,000 budget in Scandinavian style"
+      },
+      {
+        "timestamp": "2025-08-16T22:47:51.767234",
+        "sender": "bot",
+        "message": "start_invalid_choice"
+      },
+      {
+        "timestamp": "2025-08-16T22:47:51.784466",
+        "sender": "user",
+        "message": "[Photo uploaded: Love this modern kitchen design!]"
+      },
+      {
+        "timestamp": "2025-08-16T22:47:52.512433",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      },
+      {
+        "timestamp": "2025-08-16T23:01:15.515949",
+        "sender": "user",
+        "message": "[Photo uploaded: Modern kitchen design inspiration]"
+      },
+      {
+        "timestamp": "2025-08-16T23:01:16.762015",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      },
+      {
+        "timestamp": "2025-08-16T23:01:16.784343",
+        "sender": "user",
+        "message": "[Photo uploaded: Small room design]"
+      },
+      {
+        "timestamp": "2025-08-16T23:01:17.540738",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      },
+      {
+        "timestamp": "2025-08-16T23:01:17.562715",
+        "sender": "user",
+        "message": "[Photo uploaded: Detailed kitchen layout]"
+      },
+      {
+        "timestamp": "2025-08-16T23:01:18.240205",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      },
+      {
+        "timestamp": "2025-08-16T23:01:18.261956",
+        "sender": "user",
+        "message": "[Photo uploaded: Photo uploaded]"
+      },
+      {
+        "timestamp": "2025-08-16T23:01:19.191804",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      },
+      {
+        "timestamp": "2025-08-16T23:01:19.211185",
+        "sender": "user",
+        "message": "[Photo uploaded: Multi-size test]"
+      },
+      {
+        "timestamp": "2025-08-16T23:01:20.159803",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      },
+      {
+        "timestamp": "2025-08-16T23:01:20.193988",
+        "sender": "user",
+        "message": "[Photo uploaded: Test caption EN]"
+      },
+      {
+        "timestamp": "2025-08-16T23:01:21.040120",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      },
+      {
+        "timestamp": "2025-08-16T23:01:21.060080",
+        "sender": "user",
+        "message": "[Photo uploaded: Test caption RU]"
+      },
+      {
+        "timestamp": "2025-08-16T23:01:21.976069",
+        "sender": "bot",
+        "message": "Не могу проанализировать изображение. Опишите что вам нравится в этом интерьере."
+      },
+      {
+        "timestamp": "2025-08-16T23:21:42.237122",
+        "sender": "user",
+        "message": "Хочу отремонтировать кухню в стиле лофт за 50000 рублей"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:42.247145",
+        "sender": "bot",
+        "message": "❌ Пожалуйста, выберите 1 или 2"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:42.282805",
+        "sender": "user",
+        "message": "[Photo uploaded: Красивая кухня в стиле лофт]"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:44.443129",
+        "sender": "bot",
+        "message": "Не могу проанализировать изображение. Опишите что вам нравится в этом интерьере."
+      },
+      {
+        "timestamp": "2025-08-16T23:21:45.491830",
+        "sender": "user",
+        "message": "[Photo uploaded: Photo uploaded]"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:46.588943",
+        "sender": "bot",
+        "message": "Не могу проанализировать изображение. Опишите что вам нравится в этом интерьере."
+      },
+      {
+        "timestamp": "2025-08-16T23:46:25.187984",
+        "sender": "user",
+        "message": "[Photo uploaded: Тестовое фото интерьера]"
+      },
+      {
+        "timestamp": "2025-08-16T23:46:25.732692",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      }
+    ],
+    "project_description": null,
+    "current_stage": "planning",
+    "dimensions": null,
+    "timeline": null,
+    "uploaded_photos": [],
+    "notes": [],
+    "test_field": "test_value"
+  },
+  "54321": {
+    "user_id": 54321,
+    "created_at": "2025-08-16T23:21:42.255975",
+    "updated_at": "2025-08-16T23:21:45.477330",
+    "locale": "en",
+    "pending_confirmation": null,
+    "start_option_chosen": null,
+    "data_collection_mode": null,
+    "data_completeness": 0,
+    "agent_validated": false,
+    "location": null,
+    "style": null,
+    "area": null,
+    "residents": null,
+    "pets": null,
+    "layout": null,
+    "floor_material": null,
+    "ceiling_material": null,
+    "wall_material": null,
+    "plumbing": null,
+    "lighting": null,
+    "furniture": null,
+    "budget": null,
+    "references": [
+      "https://api.telegram.org/file/bot123/photos/test.jpg"
+    ],
+    "project_stage": null,
+    "construction_calendar": null,
+    "color_scheme": null,
+    "sustainability": null,
+    "accessibility": null,
+    "conversation_history": [
+      {
+        "timestamp": "2025-08-16T23:21:42.262963",
+        "sender": "user",
+        "message": "I want to renovate my kitchen in modern style with $30000 budget"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:42.269379",
+        "sender": "bot",
+        "message": "start_invalid_choice"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:44.461483",
+        "sender": "user",
+        "message": "[Photo uploaded: Beautiful modern kitchen design]"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:45.477322",
+        "sender": "bot",
+        "message": "I'm having trouble analyzing the image. Please describe what you like about this interior."
+      }
+    ],
+    "project_description": null,
+    "current_stage": "planning",
+    "dimensions": null,
+    "timeline": null,
+    "uploaded_photos": [],
+    "notes": []
+  },
+  "99999": {
+    "user_id": 99999,
+    "created_at": "2025-08-16T23:21:46.613422",
+    "updated_at": "2025-08-16T23:21:46.634404",
+    "locale": "en",
+    "pending_confirmation": null,
+    "start_option_chosen": null,
+    "data_collection_mode": null,
+    "data_completeness": 0,
+    "agent_validated": false,
+    "location": null,
+    "style": null,
+    "area": null,
+    "residents": null,
+    "pets": null,
+    "layout": null,
+    "floor_material": null,
+    "ceiling_material": null,
+    "wall_material": null,
+    "plumbing": null,
+    "lighting": null,
+    "furniture": null,
+    "budget": null,
+    "references": [
+      "https://example.com/test-image.jpg"
+    ],
+    "project_stage": null,
+    "construction_calendar": null,
+    "color_scheme": null,
+    "sustainability": null,
+    "accessibility": null,
+    "conversation_history": [
+      {
+        "timestamp": "2025-08-16T23:21:46.628794",
+        "sender": "user",
+        "message": "Тестовое сообщение"
+      },
+      {
+        "timestamp": "2025-08-16T23:21:46.634400",
+        "sender": "bot",
+        "message": "Ответ бота"
+      }
+    ],
+    "project_description": null,
+    "current_stage": "planning",
+    "dimensions": null,
+    "timeline": null,
+    "uploaded_photos": [],
+    "notes": []
+  },
+  "999999": {
+    "user_id": 999999,
+    "created_at": "2025-08-20T17:44:27.596204",
+    "updated_at": "2025-08-20T19:48:33.041663",
+    "language": "auto",
+    "survey_completed": true,
+    "preferences": {},
+    "in_survey_mode": false,
+    "start_option_chosen": null,
+    "pending_confirmation": null,
+    "preferred_style": "modern",
+    "color_preference": "Теплые тона",
+    "material_preference": "Натуральные материалы",
+    "space_type": "Частный дом",
+    "room_preference": "Гостиная",
+    "layout_style": "Открытая планировка",
+    "functionality_preference": "Технологичность",
+    "lighting_preference": "Естественное освещение",
+    "storage_preference": "Встроенные системы",
+    "budget_range": "Средний",
+    "timeline": "Средний срок",
+    "project_priority": "Функциональность",
+    "lifestyle": "Домашний",
+    "family_needs": "Семья с детьми",
+    "personal_touch": "Хобби и увлечения"
+  },
+  "123456": {
+    "user_id": 123456,
+    "created_at": "2025-08-18T12:17:35.253674",
+    "updated_at": "2025-08-18T12:28:30.564362",
+    "locale": "en",
+    "pending_confirmation": "reset",
+    "start_option_chosen": null,
+    "data_collection_mode": null,
+    "data_completeness": 0,
+    "agent_validated": false,
+    "location": null,
+    "style": null,
+    "area": null,
+    "residents": null,
+    "pets": null,
+    "layout": null,
+    "floor_material": null,
+    "ceiling_material": null,
+    "wall_material": null,
+    "plumbing": null,
+    "lighting": null,
+    "furniture": null,
+    "budget": null,
+    "references": [],
+    "project_stage": null,
+    "construction_calendar": null,
+    "color_scheme": null,
+    "sustainability": null,
+    "accessibility": null,
+    "conversation_history": [
+      {
+        "timestamp": "2025-08-18T12:17:35.269504",
+        "sender": "user",
+        "message": "/restart"
+      },
+      {
+        "timestamp": "2025-08-18T12:17:35.275609",
+        "sender": "bot",
+        "message": "⚠️ **Project Reset Confirmation**\n\nThis will delete all your current project data and start fresh.\n\nThis action cannot be undone!\n\nAre you sure you want to reset?\n\nReply **'yes'** to confirm or **'no'** to cancel."
+      },
+      {
+        "timestamp": "2025-08-18T12:22:25.352665",
+        "sender": "user",
+        "message": "/restart"
+      },
+      {
+        "timestamp": "2025-08-18T12:22:25.358843",
+        "sender": "bot",
+        "message": "⚠️ **Project Reset Confirmation**\n\nThis will delete all your current project data and start fresh.\n\nThis action cannot be undone!\n\nAre you sure you want to reset?\n\nReply **'yes'** to confirm or **'no'** to cancel."
+      }
+    ],
+    "project_description": null,
+    "current_stage": "planning",
+    "dimensions": null,
+    "timeline": null,
+    "uploaded_photos": [],
+    "notes": [],
+    "address": "Беларусь, Минск"
+  },
+  "999999999": {
+    "user_id": 999999999,
+    "created_at": "2025-08-18T15:31:45.409565",
+    "updated_at": "2025-08-18T15:36:41.075104",
+    "locale": "en",
+    "pending_confirmation": null,
+    "start_option_chosen": null,
+    "data_collection_mode": null,
+    "data_completeness": 0,
+    "agent_validated": false,
+    "location": null,
+    "style": null,
+    "area": null,
+    "residents": null,
+    "pets": null,
+    "layout": null,
+    "floor_material": null,
+    "ceiling_material": null,
+    "wall_material": null,
+    "plumbing": null,
+    "lighting": null,
+    "furniture": null,
+    "budget": null,
+    "references": [],
+    "project_stage": null,
+    "construction_calendar": null,
+    "color_scheme": null,
+    "sustainability": null,
+    "accessibility": null,
+    "conversation_history": [],
+    "project_description": null,
+    "current_stage": "planning",
+    "dimensions": null,
+    "timeline": null,
+    "uploaded_photos": [],
+    "notes": [],
+    "in_survey_mode": false
+  },
+  "1010993092": {
+    "user_id": 1010993092,
+    "created_at": "2025-08-20T22:12:55.942179",
+    "updated_at": "2025-08-20T22:30:03.319563",
+    "language": "russian",
+    "survey_completed": true,
+    "preferences": {},
+    "in_survey_mode": false,
+    "start_option_chosen": null,
+    "pending_confirmation": null,
+    "preferred_style": "modern",
+    "style_description": "Чистые линии, минимализм, функциональность",
+    "color_preference": "Холодные тона",
+    "material_preference": "Натуральные материалы\nБетон и керамика\nДрагоценные породы дерева",
+    "space_type": "Квартира\nГородская среда",
+    "room_preference": "Гостиная\nСпальня",
+    "layout_style": "Зонированная планировка",
+    "functionality_preference": "Экологичность и Технологичность",
+    "lighting_preference": "Естественный + искусственный свет",
+    "storage_preference": "Встроенные системы и Гардеробные комнаты",
+    "budget_range": "средний",
+    "timeline": "4 месяца",
+    "project_priority": "эстетика и комфорт",
+    "lifestyle": "активный",
+    "family_needs": "пара",
+    "personal_touch": "рисование, пиано, бег",
+    "media_group_14045745624177930": true
+  },
+  "1353174424": {
+    "user_id": 1353174424,
+    "created_at": "2025-08-18T20:49:09.069770",
+    "updated_at": "2025-08-20T17:27:14.027430",
+    "locale": "ru",
+    "pending_confirmation": null,
+    "start_option_chosen": "survey_complete",
+    "data_collection_mode": null,
+    "data_completeness": 0,
+    "agent_validated": false,
+    "location": null,
+    "style": null,
+    "area": null,
+    "residents": null,
+    "pets": null,
+    "layout": null,
+    "floor_material": null,
+    "ceiling_material": null,
+    "wall_material": null,
+    "plumbing": null,
+    "lighting": null,
+    "furniture": null,
+    "budget": null,
+    "references": [],
+    "project_stage": null,
+    "construction_calendar": null,
+    "color_scheme": null,
+    "sustainability": null,
+    "accessibility": null,
+    "conversation_history": [
+      {
+        "timestamp": "2025-08-18T20:49:09.084907",
+        "sender": "user",
+        "message": "/start"
+      },
+      {
+        "timestamp": "2025-08-18T20:49:09.090532",
+        "sender": "bot",
+        "message": "👋 Привет, Dzmitry!\n\nЯ ваш персональный помощник по дизайну интерьера. Помогу создать проект мечты от А до Я!\n\n🏠 **Предлагаю пройти подробный тест** — я соберу все данные о вашей квартире и ваших предпочтениях.\n\n💡 **Зачем это нужно?** Чтобы давать максимально точные рекомендации: подбирать материалы, составлять план ремонта и рассчитывать бюджет именно для вашего случая.\n\n⏱ **Время:** 7-10 минут, всего 7 разделов с удобными кнопками для выбора.\n\n🚀 Начать тест — /test\n\n💬 **Можете задавать любые вопросы на всех этапах — я с радостью отвечу!**"
+      },
+      {
+        "timestamp": "2025-08-18T20:49:47.527752",
+        "sender": "user",
+        "message": "Какой проект подойдет Марине"
+      },
+      {
+        "timestamp": "2025-08-18T20:49:47.537563",
+        "sender": "bot",
+        "message": "start_invalid_choice"
+      },
+      {
+        "timestamp": "2025-08-18T20:51:59.918971",
+        "sender": "user",
+        "message": "Какой теплый пол дешевле?"
+      },
+      {
+        "timestamp": "2025-08-18T20:51:59.928274",
+        "sender": "bot",
+        "message": "✨ Понимаю, вопрос практичный и важный. Давайте разберемся с теплым полом, чтобы выбрать оптимальный вариант.\n\n💡 Существует два основных типа теплых полов:\n\n🔸 **Электрический теплый пол:**\n   ✅ Проще в монтаже, особенно маты.\n   ✅ Более доступная стоимость самих материалов.\n   ✅ Подходит для небольших помещений или локального обогрева (например, в ванной).\n   ✅ Однако, дороже в эксплуатации из-за стоимости электроэнергии.\n\n🔸 **Водяной теплый пол:**\n   ✅ Более экономичен в эксплуатации, особенно при наличии газового котла.\n   ✅ Подходит для больших площадей и домов с центральным отоплением.\n   ✅ Требует более сложного монтажа и согласования.\n   ✅ Начальная стоимость оборудования выше.\n\n💰 **Если говорить о стоимости, то на старте дешевле обойдется электрический теплый пол.** Особенно если рассматривать готовые маты. \n\n🔍 **Для примера, цены в Минске (на октябрь 2024):**\n\n*   **Электрический теплый пол (маты):** от 25 BYN за квадратный метр (например, [https://www.stroyline.by/catalog/teplye-poly/teplye-poly-elektricheskie/](https://www.stroyline.by/catalog/teplye-poly/teplye-poly-elektricheskie/))\n*   **Комплект для водяного теплого пола (на небольшую площадь):** от 200 BYN (включает коллектор, трубу, фитинги, но не включает котел и насос). (например, [https://aqua-term.by/catalog/teplopol/komplekty-teplogo-pola/](https://aqua-term.by/catalog/teplopol/komplekty-teplogo-pola/))\n\n🔑 **Но!** Важно учитывать общую площадь помещения, стоимость энергии в вашем регионе, наличие или возможность установки газового котла. \n\n🤔 **Чтобы дать более точную рекомендацию, расскажите:**\n\n*   Какова площадь помещения, где планируется теплый пол?\n*   Какая система отопления у вас сейчас?\n*   Какие ваши приоритеты: низкая начальная стоимость или экономия в эксплуатации?"
+      },
+      {
+        "timestamp": "2025-08-20T17:27:14.017794",
+        "sender": "user",
+        "message": "https://t.me/buildbuddy_robot"
+      },
+      {
+        "timestamp": "2025-08-20T17:27:14.027423",
+        "sender": "bot",
+        "message": "✨ Понимаю, вы поделились ссылкой на Telegram-бота для строительства и ремонта. Это отличное решение для получения информации и поиска подрядчиков!\n\n💡 Однако, я здесь для того, чтобы предложить вам более индивидуальный и глубокий подход к дизайну вашего интерьера. Я не просто подбираю товары или ищу исполнителей – я создаю концепцию, продумываю детали, учитываю ваши предпочтения и помогаю воплотить ваши мечты в реальность.\n\n🔍 **Что я могу предложить, чего не сможет бот:**\n\n*   **Разработку уникального стиля:** Основываясь на ваших вкусах, я создам дизайн, который отражает вашу индивидуальность.\n*   **Подбор материалов с учетом эстетики и бюджета:** Я знаю, где найти качественные материалы по оптимальным ценам в Минске.\n*   **Визуализацию проекта:** Вы сможете увидеть, как будет выглядеть ваш интерьер до начала ремонта.\n*   **Профессиональные советы:** Я помогу вам избежать ошибок и создать функциональное и гармоничное пространство.\n\n💬 **Если вы хотите не просто сделать ремонт, а создать дом своей мечты, я к вашим услугам.** \n\n🔑 Давайте вернемся к вашему проекту. Расскажите, на каком этапе вы находитесь? Может быть, у вас уже есть какие-то идеи или предпочтения?"
+      }
+    ],
+    "project_description": null,
+    "current_stage": "planning",
+    "dimensions": null,
+    "timeline": null,
+    "uploaded_photos": [],
+    "notes": [],
+    "in_survey_mode": false,
+    "address": "Варшава",
+    "apartment_plan": "Потом",
+    "family_size": "3",
+    "comprehensive_survey_data": "Да"
+  }
+}
